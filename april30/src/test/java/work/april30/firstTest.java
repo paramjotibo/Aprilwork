@@ -31,6 +31,6 @@ public class firstTest {
 	@Test
 	public void homework5()
 	{
-		System.out.println("newly added");
+		System.out.println("newjkjk added");
 	}
 }

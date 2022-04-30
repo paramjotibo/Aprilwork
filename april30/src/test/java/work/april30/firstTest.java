@@ -15,4 +15,10 @@ public class firstTest {
 	{
 		System.out.println("work not to be done");
 	}
+	
+	@Test
+	public void homework3()
+	{
+		System.out.println("third work");
+	}
 }

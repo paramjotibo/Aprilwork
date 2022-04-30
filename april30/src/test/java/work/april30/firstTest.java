@@ -27,4 +27,10 @@ public class firstTest {
 	{
 		System.out.println("fourth work");
 	}
+	
+	@Test
+	public void homework5()
+	{
+		System.out.println("newly added");
+	}
 }

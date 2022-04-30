@@ -21,4 +21,10 @@ public class firstTest {
 	{
 		System.out.println("third work");
 	}
+	
+	@Test
+	public void homework4()
+	{
+		System.out.println("fourth work");
+	}
 }
